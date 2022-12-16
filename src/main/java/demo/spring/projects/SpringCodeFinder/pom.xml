@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<spring.version>5.2.1.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<aspectj.version>1.8.9</aspectj.version>
 	</properties>
 
